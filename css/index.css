@@ -10,6 +10,14 @@ ul,li{
 .clear{
   clear: both;
 }
+a{
+  color: #000
+}
+a:hover{
+  color:#2c9a65 
+}
+
+
 
 
 .header-frame{
@@ -64,12 +72,12 @@ ul,li{
 .banner-text-sq{
   font-size: 17px;font-weight: bold;color: #fff;
 }
-.main-frame{
-  height: 1000px
+.main-frame,.content-frame{
+  height: auto;
 }
 
 .content-border-frame{
-  height: auto;border: 1px solid #fff;border-radius: 10px ;box-shadow: 2px 2px 10px #eee
+  height: auto;border: 1px solid #fff;border-radius: 10px ;box-shadow: 2px 2px 10px #a1a1a1;margin-top: 10px;margin-bottom: 10px;padding-bottom: 10px
 }
 .content-header{
   padding-top: 10px
@@ -118,4 +126,51 @@ ul,li{
 }
 p.readall{
   padding-top: 4px; font-size: 19px
+}
+
+
+
+/**left**/
+.other-frame{
+  height: auto;background-color: #fff;box-shadow: 2px 2px 10px #a1a1a1;margin-top: 10px;border: 1px solid #fff;border-radius: 10px
+}
+
+
+.search-box{
+  margin-top: 20px;margin-bottom: 20px;height: 40px
+}
+.search-box form input{
+  height: 40px;background-color: #7ecdf4;border: none;margin-left: 10px;color: #fff
+}
+.news-art{
+  margin-top: 20px
+}
+.news-art .bg-rectangle{
+  width: 100px;height:30px;background-color:  #2b9a65
+}
+.news-art .bg-rectangle p{
+  font-size: 20px;color: #fff;line-height: 30px
+}
+.news-art ul {
+
+}
+.news-art ul li{
+  border-bottom: 1px dotted #eee;padding: 3px
+}
+
+/**footer**/
+.footer{
+  height: 200px;border-top: #eee solid 1px;
+}
+.footer p{
+  font-size: 20px
+}
+.footer ul li{
+  padding: 3px;font-size: 17px
+}
+.footer-frame{
+  margin-top: 10px
+}
+.footer-p{
+  padding-top: 20px;font-size: 11px;color: #bfbfbf
 }
