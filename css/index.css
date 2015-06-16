@@ -16,8 +16,12 @@ a{
 a:hover{
   color:#2c9a65 
 }
-
-
+.green{
+  color:#2c9a65 
+}
+.bold{
+  font-weight: bold;
+}
 
 
 .header-frame{
@@ -140,7 +144,7 @@ p.readall{
   margin-top: 20px;margin-bottom: 20px;height: 40px
 }
 .search-box form input{
-  height: 40px;background-color: #7ecdf4;border: none;margin-left: 10px;color: #fff
+  height: 40px;border: none;margin-left: 10px;color: #2c9a65 ;border: 1px solid #7ecdf4;
 }
 .news-art{
   margin-top: 20px
@@ -162,7 +166,7 @@ p.readall{
 .footer{
   height: 200px;border-top: #eee solid 1px;
 }
-.footer p{
+p.footer-p{
   font-size: 20px
 }
 .footer ul li{
@@ -171,6 +175,17 @@ p.readall{
 .footer-frame{
   margin-top: 10px
 }
-.footer-p{
-  padding-top: 20px;font-size: 11px;color: #bfbfbf
+p.footer-c{
+  padding-top: 20px;font-size: 13px;color: #bfbfbf
+}
+
+/**main**/
+.m-content-main{
+  height: 1000px;border: 1px solid #fff ;border-radius: 10px;margin-top: 10px;box-shadow: 2px 2px 10px #a1a1a1;margin-bottom: 20px
+}
+.m-header-guide{
+
+}
+.m-header-guide p{
+  font-size: 18px;padding:20px 5px 5px 5px 
 }
