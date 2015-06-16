@@ -181,11 +181,14 @@ p.footer-c{
 
 /**main**/
 .m-content-main{
-  height: 1000px;border: 1px solid #fff ;border-radius: 10px;margin-top: 10px;box-shadow: 2px 2px 10px #a1a1a1;margin-bottom: 20px
+  height: auto;border: 1px solid #fff ;border-radius: 10px;margin-top: 10px;box-shadow: 2px 2px 10px #a1a1a1;margin-bottom: 20px
 }
 .m-header-guide{
-
+  border-bottom:1px solid #eee;
 }
 .m-header-guide p{
   font-size: 18px;padding:20px 5px 5px 5px 
+}
+.m-content-text-area p{
+  font-size: 20px
 }
