@@ -1,0 +1,1 @@
+<?php get_header(); ?>    <script>        $(document).ready(function () {            $(".banner-text").text("404页面");            $(".banner-text-sq").text("您可以在喧嚣的城市中感受这片孤独的宁静");        });    </script><!--banner end--><?php get_footer(); ?>

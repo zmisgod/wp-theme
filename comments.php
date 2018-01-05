@@ -1,0 +1,1 @@
+<div id="comments_frame" data-post-id ='<?php the_ID(); ?>'></div>
