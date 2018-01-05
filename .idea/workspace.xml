@@ -2,115 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="97eccab9-f1f6-42f8-a65b-c69c532ff5db" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/genericons/Material-Design-Icons.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/genericons/Material-Design-Icons.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/chat.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/cloud.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/love.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/notfoundimages/0.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/notfoundimages/1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/vision.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/banner.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/cat_head/1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/cat_head/10.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/cat_head/11.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/cat_head/12.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/cat_head/13.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/cat_head/14.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/cat_head/15.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/cat_head/16.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/cat_head/17.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/cat_head/18.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/cat_head/19.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/cat_head/2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/cat_head/20.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/cat_head/21.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/cat_head/22.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/cat_head/23.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/cat_head/24.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/cat_head/25.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/cat_head/26.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/cat_head/27.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/cat_head/28.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/cat_head/29.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/cat_head/3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/cat_head/30.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/cat_head/31.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/cat_head/32.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/cat_head/33.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/cat_head/34.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/cat_head/35.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/cat_head/36.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/cat_head/37.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/cat_head/38.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/cat_head/39.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/cat_head/4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/cat_head/5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/cat_head/6.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/cat_head/7.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/cat_head/8.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/cat_head/9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/favicon.ico" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/logo1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/logosmall.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/video-js.swf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/screenshot.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/WordPressTheme.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/404.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/category.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/comments.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/animate.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/bootstrap.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/flat-ui.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/index.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/jquery.dropdown.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/vendor/bootstrap/css/bootstrap.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/footer.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/functions.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/genericons/LICENSE.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/genericons/Material-Design-Icons.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/genericons/Material-Design-Icons.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/header.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/flat-ui.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/jquery-1.10.2.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/jquery-2.1.4.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/jquery-ias.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/jquery.dropdown.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/jquery.nouislider.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/jquery1.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/less.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/masonry.pkgd.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/material.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/ripples.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/html5shiv.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/jquery.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/jquery.min.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/respond.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/video.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/page.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/search.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sidebar.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/single.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/style.css" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/banner-1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/index.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/banner1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/logo.psd" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/logo.PNG" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mian.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/webcontentdesign.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/webcontentdesign.psd" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/webdesign.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/webdesign.psd" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/banner.png" afterPath="$PROJECT_DIR$/img/banner.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/oth.PNG" afterPath="$PROJECT_DIR$/img/oth.PNG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/jquery.min.js" afterPath="$PROJECT_DIR$/js/jquery.min.js" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -187,15 +81,25 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="266">
-                <caret line="14" column="48" lean-forward="true" selection-start-line="14" selection-start-column="48" selection-end-line="14" selection-end-column="48" />
+              <first_editor relative-caret-position="190">
+                <caret line="10" column="10" lean-forward="true" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="10" />
                 <folding />
               </first_editor>
               <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="27">
+              <caret line="43" column="6" lean-forward="true" selection-start-line="43" selection-start-column="6" selection-end-line="43" selection-end-column="6" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -216,6 +120,7 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -359,12 +264,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1515116167757</updated>
-      <workItem from="1515116171088" duration="992000" />
+      <workItem from="1515116171088" duration="1516000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="992000" />
+    <option name="totallyTimeSpent" value="1516000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="777" extended-state="6" />
@@ -378,7 +283,7 @@
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.329927" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -566,11 +471,19 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="266">
-            <caret line="14" column="48" lean-forward="true" selection-start-line="14" selection-start-column="48" selection-end-line="14" selection-end-column="48" />
+          <first_editor relative-caret-position="190">
+            <caret line="10" column="10" lean-forward="true" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="10" />
             <folding />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="43" column="6" lean-forward="true" selection-start-line="43" selection-start-column="6" selection-end-line="43" selection-end-column="6" />
+          <folding />
         </state>
       </provider>
     </entry>
