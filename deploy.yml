@@ -1,0 +1,28 @@
+version: '3.1'
+
+services:
+  wordpress:
+    image: wordpress
+    restart: always
+    ports:
+      - 8082:80
+    environment:
+      WORDPRESS_DB_HOST: db
+      WORDPRESS_DB_USER: root
+      WORDPRESS_DB_PASSWORD: 123456
+      WORDPRESS_DB_NAME: wordpress_db
+    volumes:
+      - ./meow_theme:/var/www/html/wp-content/themes/meow_theme/
+
+  db:
+    image: mysql:5.7
+    restart: always
+    environment:
+      MYSQL_DATABASE: wordpress_db
+      MYSQL_ROOT_PASSWORD: 123456
+    volumes:
+      - db:/var/lib/mysql
+
+volumes:
+  wordpress:
+  db:
