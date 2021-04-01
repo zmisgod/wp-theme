@@ -4,13 +4,14 @@
 			<div class="col-md-8" id="content-frame">
                 <div class="col-md-8 col-md-offset-4">
                 <?php if (have_posts()) : while (have_posts()) : the_post(); ?>
+                    <?php if( the_post() != null) : ?>
                     <div class="col-xs-12 content-border-frame">
                         <div class="content-header clearfix col-xs-12">
                             <div class="pull-left head-img hidden-xs">
                                 <?php echo get_avatar( get_the_author_email(), 51 ); ?>
                             </div>
                             <div class="pull-left">
-					<p class="content-title">
+					            <p class="content-title">
                                         <a href="<?php the_permalink(); ?>" rel="bookmark"><?php ODD_title(); ?></a>
                                     </p>
                                 <p class="content-other-info">
@@ -45,6 +46,7 @@
                             </div>
                         </div>
                     </div>
+                    <?php endif; ?>
                 <?php endwhile; ?>
                 <?php endif; ?>
                 </div>

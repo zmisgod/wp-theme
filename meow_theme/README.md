@@ -1,15 +1,14 @@
 # wordPress theme
 
-This is my first WordPress theme. I designed and coded it by searching information though i did not know how to write one PHP code.
+just edit deploy.yml file to change mysql user name and password
 
-## screenshot
+and run
 
-<img src="https://github.com/zmisgod/wordPressTheme/blob/master/screenshot.png" height="500">
+```
+docker-compose -f deploy.yml up
+```
 
-## contact
-
-<a href="https://zmis.me/user/zmisgod">my new blog: zmis.me</a>
-
-<a href="https://weibo.com/zmisgod">@zmisgod</a>
-
+## set up theme
+1. go to `Appearance` - `Widgets`
+2. keep `Second_sidebar`、`Third_sidebar`、`Fourth_sidebar` slot clean
 
